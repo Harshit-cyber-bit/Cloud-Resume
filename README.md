@@ -31,4 +31,4 @@ Welcome to my Cloud Resume Challenge project, where I've utilized Amazon Web Ser
 - IAM
 - AWS CodePipeline
 
-ps: the service is currently disable.
+**ps: the service is currently disable.**
